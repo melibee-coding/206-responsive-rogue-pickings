@@ -180,11 +180,11 @@ footer span {
 	}
 	
 	.section-one {
-		width: 30%;
+		width: 29%;
 	}
 	
 	.section-two {
-		width: 40%;
+		width: 42%;
 		border-top: none;
 		border-right: 5px solid #EEE;
 		border-bottom: none;
@@ -193,7 +193,7 @@ footer span {
 	}
 	
 	.section-three {
-		width: 30%;
+		width: 29%;
 		padding-left: 20px;
 	}
 }
